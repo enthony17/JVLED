@@ -1,14 +1,16 @@
 body  {
     
     background-image: url("GALA.jpg");
-    background-color: #cccccc;
+    background-color: black;
+    color: aliceblue;
+
   
   }
 
   h2{
 
     background-color: rgb(122, 160, 194);
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Arial, Helvetica, sans-serif
     font-size: smaller;
     color: #4d1a86;
   }
@@ -21,7 +23,7 @@ body  {
   button{
 
     background-color: rgba(250, 235, 215, 0);
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Arial, Helvetica, sans-serif;
     padding: 300% 20px;
     font-size: 25px;
     border-style: solid ;
@@ -37,7 +39,7 @@ body  {
   }
   
   .flex-container > div {
-background-color:#cccccc00 ;
+background-color:black;
     margin: 10px;
     padding: 20px;
     font-size: 30px;
