@@ -39,7 +39,7 @@ body  {
   }
   
   .flex-container > div {
-background-color:black;
+background-color:rgb(83, 54, 54);
     margin: 10px;
     padding: 20px;
     font-size: 30px;
