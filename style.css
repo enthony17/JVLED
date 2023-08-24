@@ -34,12 +34,13 @@ width: auto 100px;
     cursor: pointer;
     text-align: center;
     width: block;
-    color:aliceblue ;
+    color:rgb(0, 0, 0) ;
   }
   .flex-container {
     display: flex;
    background-color: #a31eaf00;
     align-items: center;
+    justify-content: center;
   }
   
   .flex-container > div {
