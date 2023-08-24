@@ -39,8 +39,9 @@ width: auto 100px;
   .flex-container {
     display: flex;
    background-color: #a31eaf00;
-    align-items: center;
+    
     justify-content: center;
+    flex-direction: row;
   }
   
   .flex-container > div {
@@ -49,4 +50,5 @@ background-color:rgb(144, 40, 158);
     padding: 20px;
     font-size: 30px;
     justify-content: center;
+    flex-direction: row;
   }
