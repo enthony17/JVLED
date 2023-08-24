@@ -12,13 +12,17 @@ body  {
     background-color: rgb(122, 160, 194);
     font-family: Arial, Helvetica, sans-serif;
     font-size: smaller;
-    color: #4d1a86;
+    color: #09070c;
+width: auto 200px;
+
   }
   p{
     background-color:  rgb(122, 160, 194);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: smaller;
-    color: #320836;
+    color: #0f0c0f;
+width: auto 100px;
+
   }
   button{
 
